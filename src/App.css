@@ -1,0 +1,34 @@
+.App {
+  text-align: center;
+}
+
+h1 {
+  font-size: 4rem;
+}
+
+a {
+  color: goldenrod;
+  text-decoration: none;
+}
+
+a:hover {
+  font-size: larger;
+}
+
+
+.film-box {
+  border: 5px solid goldenrod;
+  background-image: url("./movie-918655_1920.jpg");
+  color: goldenrod;
+}
+
+.film-list {
+  border: 2px solid goldenrod;
+  margin: 100px;
+  color: goldenrod;
+}
+
+.film {
+  border: none;
+  color: goldenrod;
+}
